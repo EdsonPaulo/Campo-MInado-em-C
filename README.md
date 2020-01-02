@@ -3,8 +3,8 @@ Jogo do campo minado em C usando Estruturas, Matrizes, Recursão...
 <br>
 <br>
 # Executando: 
- 1. <b>  gcc CampoMinado.c -o CampoMinado</b> (enter) <br>
- 2. <b>  ./CampoMinado </b> 
+  1:> <b>  gcc CampoMinado.c -o CampoMinado</b> (enter) <br>
+  2:> <b>  ./CampoMinado </b>  (enter) 
 <br>
 <br>
 1. Regras do Jogo Campo Minado<br>
