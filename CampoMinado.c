@@ -2,8 +2,6 @@
 	Autor: Edson Gregorio
 	Projecto: Campo Minado
 	Data: 4/06/2019;
-	Efeito: Trabalho de Tecnicas de Programacao
-			(Engenharia Informatica - Universidade Catolica de Angola)
 --------------------------------------------------------------------------------------------------------*/
 #include <stdio.h>
 #include <stdlib.h>
