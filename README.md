@@ -1,4 +1,5 @@
-# Campo-MInado-em-C
+# Campo Minado em C
+
 Jogo do campo minado em C usando Estruturas, Matrizes, Recursão...
 <br>
 <br>
